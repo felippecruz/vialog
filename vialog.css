@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #ffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: #ff8c00;
+}
+p{
+    color: blac;
+}
+h2{
+    color: #ff8c00;
+}
+div.nav{
+    text-decoration: black;
+    color: black;
+}
